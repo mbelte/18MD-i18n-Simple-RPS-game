@@ -1,0 +1,27 @@
+{
+    "translation":
+    {
+        "gameTitle": "Каменные ножницы Бумага",
+        "homePage": "Начало",
+        "gamePage": "Игра",
+        "scorePage": "Результаты",
+        "gameWin": "Ты выиграл!",
+        "gameLose": "Ты проиграла!",
+        "gameTie": "Ничья!",
+        "score": "результат",
+        "startBtn": "Начало игры",
+        "inputNameLabel": "Ваше имя",
+        "inputNamePlaceh": "Введите ваше имя ...",
+        "nameScore": "Имя",
+        "winsScore": "Победа",
+        "losesScore": "Убытки",
+        "tiesScore": "не определился",
+        "titleScore": "Результаты игроков",
+        "titleScoreWeapons": "Статистика использованного оружия",
+        "rock": "Камень",
+        "paper": "Бумага",
+        "scissors": "Ножницы",
+        "fetchError": "При получении данных произошла ошибка!",        
+        "homePageText": "Это простая игра Rock Scissors Paper, созданная с использованием React, React i18next, Express.js."
+    }
+}

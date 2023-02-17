@@ -1,0 +1,27 @@
+{
+    "translation": 
+    {
+        "gameTitle": "Akmens Šķēres Papīrīts",
+        "homePage": "Sākums",
+        "gamePage": "Spēle",
+        "scorePage": "Rezultāti",
+        "gameWin": "Tu uzvarēji!",
+        "gameLose": "Tu zaudēji!",
+        "gameTie": "Neizšķirts!",
+        "score": "rezultāts",
+        "startBtn": "Sākt spēli",
+        "inputNameLabel": "Tavs vārds",
+        "inputNamePlaceh": "Ievadi savu vārdu ...",
+        "nameScore": "Vārds",
+        "winsScore": "Uzvaras",
+        "losesScore": "Zaudējumi",
+        "tiesScore": "Neizšķirti",
+        "titleScore": "Spēlētāju rezultāti",
+        "titleScoreWeapons": "Izmantoto ieroču statistika",
+        "rock": "Akmens",
+        "paper": "Papīrs",
+        "scissors": "Šķēres",
+        "fetchError": "Radusies kļūda iegūstot datus!",
+        "homePageText": "Šī ir vienkārša Akmens Šķēres Papīrīts spēle, kas veidota izmantojot React, React i18next, Express.js"
+    }
+}

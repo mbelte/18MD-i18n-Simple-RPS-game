@@ -1,0 +1,64 @@
+.wrap {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+    margin: 60px auto;
+    padding: 20px;
+    width: 800px;
+}
+
+.loaderWrap {
+    margin: 60px auto;
+    width: 80px;
+}
+
+.error {
+    color: red;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.heading {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.table {
+    border-spacing: 0;
+    width: 100%;
+}
+
+.table td {
+    border-bottom: 1px solid #fc2820;
+    margin: 0;
+    padding: 4px 8px 0 8px;
+    transition: background-color 0.3s;
+}
+
+.table td:not(:first-child) {
+    text-align: center;
+}
+
+.table > thead td {
+    font-weight: 700;
+    border-bottom-width: 2px;
+}
+
+.table > tbody > tr:hover > td {
+    background-color: #ffffff81;
+}
+
+.weapons {
+    padding-top: 30px;
+}
+
+.weaponsHeading {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.weaponsList {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 10px;
+}

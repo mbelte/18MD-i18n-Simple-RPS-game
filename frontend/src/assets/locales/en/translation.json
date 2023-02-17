@@ -1,0 +1,27 @@
+{
+    "translation":
+    {
+        "gameTitle": "Rock Paper Scissors",
+        "homePage": "Home",
+        "gamePage": "Game",
+        "scorePage": "Scores",
+        "gameWin": "You won!",
+        "gameLose": "You lost!",
+        "gameTie": "It's a Tie",
+        "score": "score",
+        "startBtn": "Start Game",
+        "inputNameLabel": "Your name",
+        "inputNamePlaceh": "Enter your name ...",
+        "nameScore": "Name",
+        "winsScore": "Wins",
+        "losesScore": "Loses",
+        "tiesScore": "Ties",
+        "titleScore": "Player results",
+        "titleScoreWeapons": "Statistics of weapons used",
+        "rock": "Rock",
+        "paper": "Paper",
+        "scissors": "Scissors",
+        "fetchError": "An error occurred while retrieving data!",
+        "homePageText": "This is a simple Rock Scissors Paper game built using React, React i18next, Express.js"
+    }
+}

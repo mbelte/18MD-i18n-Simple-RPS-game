@@ -1,0 +1,33 @@
+.weapon {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    height: 200px;
+    transition: transform .2s ease-in-out;
+
+    &:hover {
+        transform: rotate(16deg);
+    }
+}
+
+.rock {
+    background-image: url('./images/rock.svg');
+    width: 166px;
+}
+
+.paper {
+    background-image: url('./images/paper.svg');
+    width: 146px;
+}
+
+.scissors {
+    background-image: url('./images/scissors.svg');
+    width: 128px;
+}
+
+.hidden {
+    visibility: hidden;
+}

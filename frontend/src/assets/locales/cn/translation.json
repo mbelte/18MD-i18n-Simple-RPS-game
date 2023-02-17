@@ -1,0 +1,28 @@
+{
+    "translation":
+    {
+        "gameTitle": "剪刀石头布",
+        "homePage": "家",
+        "gamePage": "游戏",
+        "scorePage": "分数",
+        "gameWin": "你赢了！",
+        "gameLose": "你输了！",
+        "gameTie": "这是一个平局",
+        "score": "分数",
+        "startBtn": "开始游戏",
+        "inputNameLabel": "你的名字",
+        "inputNamePlaceh": "输入你的名字 ...",
+
+        "nameScore": "名",
+        "winsScore": "胜利",
+        "losesScore": "损失",
+        "tiesScore": "未定",
+        "titleScore": "选手成绩",
+        "titleScoreWeapons": "使用武器统计",
+        "rock": "岩石",
+        "paper": "纸",
+        "scissors": "剪刀",
+        "fetchError": "检索数据时发生错误!",
+        "homePageText": "这是一个使用 React、React i18next、Express.js 构建的简单石头剪刀布游戏"
+    }
+}

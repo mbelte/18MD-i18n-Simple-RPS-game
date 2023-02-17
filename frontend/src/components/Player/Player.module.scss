@@ -1,0 +1,29 @@
+.player {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    gap: 40px;
+}
+
+.scoreWrap {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 36px;
+}
+
+.scoreText {
+    
+}
+
+.score {
+    font-size: 46px;
+}
+
+
+.weapons {
+    display: flex;
+    justify-content: center;
+    gap: 26px;
+}

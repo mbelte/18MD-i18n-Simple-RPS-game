@@ -1,0 +1,38 @@
+.nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.item {
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.4s;
+
+    &:hover {
+        background-color: #31313165;
+    }
+}
+
+.item.active {
+    background-color: #fc2820;
+}
+
+.select {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    padding: 6px;
+}
+
+.select option {
+    color: #000;
+}
